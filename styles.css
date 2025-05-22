@@ -19,6 +19,10 @@ img {
 }
 
 .recipes {
+    margin: 0 auto;
+}
+
+.recipes ul {
     padding: 0;
     margin: 0;
 }
